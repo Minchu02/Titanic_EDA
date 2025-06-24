@@ -7,7 +7,7 @@ It covers:
 - Dataset overview
 - Handling missing values
 - Visualizing distributions:
-  ![histogram image](histogram.png)
+  ![histogram image](task/assets/histogram.png)
   
 - Detecting outliers
 - Interactive analysis using Plotly
